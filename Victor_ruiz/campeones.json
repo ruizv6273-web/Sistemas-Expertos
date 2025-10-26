@@ -1,0 +1,184 @@
+{
+    "campeones": [
+        {
+            "nombre": "Garen",
+            "atributos": {
+                "es_hombre": "si",
+                "usa_magia": "no",
+                "es_de_demacia": "si",
+                "es_tanque": "si",
+                "usa_espada": "si",
+                "es_yordle": "no",
+                "es_tirador": "no"
+            }
+        },
+        {
+            "nombre": "Lux",
+            "atributos": {
+                "es_hombre": "no",
+                "usa_magia": "si",
+                "es_de_demacia": "si",
+                "es_tanque": "no",
+                "usa_espada": "no",
+                "es_yordle": "no",
+                "es_tirador": "no"
+            }
+        },
+        {
+            "nombre": "Teemo",
+            "atributos": {
+                "es_hombre": "si",
+                "usa_magia": "no",
+                "es_de_demacia": "no",
+                "es_tanque": "no",
+                "usa_espada": "no",
+                "es_yordle": "si",
+                "es_tirador": "si"
+            }
+        },
+        {
+            "nombre": "Jinx",
+            "atributos": {
+                "es_hombre": "no",
+                "usa_magia": "no",
+                "es_de_demacia": "no",
+                "es_tanque": "no",
+                "usa_espada": "no",
+                "es_yordle": "no",
+                "es_tirador": "si"
+            }
+        },
+        {
+            "nombre": "Yasuo",
+            "atributos": {
+                "es_hombre": "si",
+                "usa_magia": "si",
+                "es_de_demacia": "no",
+                "es_tanque": "no",
+                "usa_espada": "si",
+                "es_yordle": "no",
+                "es_tirador": "no"
+            }
+        },
+        {
+            "nombre": "Ahri",
+            "atributos": {
+                "es_hombre": "no",
+                "usa_magia": "si",
+                "es_de_demacia": "no",
+                "es_tanque": "no",
+                "usa_espada": "no",
+                "es_yordle": "no",
+                "es_tirador": "no"
+            }
+        },
+        {
+            "nombre": "Darius",
+            "atributos": {
+                "es_hombre": "si",
+                "usa_magia": "no",
+                "es_de_demacia": "no",
+                "es_tanque": "si",
+                "usa_espada": "no",
+                "es_yordle": "no",
+                "es_tirador": "no"
+            }
+        },
+        {
+            "nombre": "Vayne",
+            "atributos": {
+                "es_hombre": "no",
+                "usa_magia": "no",
+                "es_de_demacia": "si",
+                "es_tanque": "no",
+                "usa_espada": "no",
+                "es_yordle": "no",
+                "es_tirador": "si"
+            }
+        },
+        {
+            "nombre": "Poppy",
+            "atributos": {
+                "es_hombre": "no",
+                "usa_magia": "no",
+                "es_de_demacia": "si",
+                "es_tanque": "si",
+                "usa_espada": "no",
+                "es_yordle": "si",
+                "es_tirador": "no"
+            }
+        },
+        {
+            "nombre": "Annie",
+            "atributos": {
+                "es_hombre": "no",
+                "usa_magia": "si",
+                "es_de_demacia": "no",
+                "es_tanque": "no",
+                "usa_espada": "no",
+                "es_yordle": "no",
+                "es_tirador": "no"
+            }
+        },
+        {
+            "nombre": "Tryndamere",
+            "atributos": {
+                "es_hombre": "si",
+                "usa_magia": "no",
+                "es_de_demacia": "no",
+                "es_tanque": "no",
+                "usa_espada": "si",
+                "es_yordle": "no",
+                "es_tirador": "no"
+            }
+        },
+        {
+            "nombre": "Leona",
+            "atributos": {
+                "es_hombre": "no",
+                "usa_magia": "si",
+                "es_de_demacia": "no",
+                "es_tanque": "si",
+                "usa_espada": "si",
+                "es_yordle": "no",
+                "es_tirador": "no"
+            }
+        },
+        {
+            "nombre": "Zed",
+            "atributos": {
+                "es_hombre": "si",
+                "usa_magia": "no",
+                "es_de_demacia": "no",
+                "es_tanque": "no",
+                "usa_espada": "no",
+                "es_yordle": "no",
+                "es_tirador": "no"
+            }
+        },
+        {
+            "nombre": "Caitlyn",
+            "atributos": {
+                "es_hombre": "no",
+                "usa_magia": "no",
+                "es_de_demacia": "no",
+                "es_tanque": "no",
+                "usa_espada": "no",
+                "es_yordle": "no",
+                "es_tirador": "si"
+            }
+        },
+        {
+            "nombre": "Malphite",
+            "atributos": {
+                "es_hombre": "si",
+                "usa_magia": "si",
+                "es_de_demacia": "no",
+                "es_tanque": "si",
+                "usa_espada": "no",
+                "es_yordle": "no",
+                "es_tirador": "no"
+            }
+        }
+    ]
+}
